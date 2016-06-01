@@ -3,7 +3,7 @@ Delphi Examples for PDF-XChangeCore SDK
 
 To make the sample working do the following steps:
 
-1) Download and install [PDF-XChange Editor SDK](http://www.tracker-software.com/product/pdf-xchange-editor-sdk)
+1) Download and install [PDF-XChange Core API SDK](http://www.tracker-software.com/product/pdf-xchange-core-api-sdk)
 
 2) Import Type Library PDF-XChange PDF Core API Library
 
